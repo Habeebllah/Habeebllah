@@ -1,8 +1,8 @@
 ### Hi there 👋. I'm Habeeb.
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Robotics+Engineer;Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Robotics+Engineer;Full-Stack+Developer;;Frontend+Engineer;;Backend+Engineer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-- :man: I am a Full Stack Web Developer with experience using a variety of programming languages
+- :man: I am a Full Stack Web Developer with experience using a variety of programming languages and tools
 
 - :blossom: I have strong technical skills, visual sense, understanding of UX with strong communication skills.
 
