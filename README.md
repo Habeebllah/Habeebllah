@@ -4,7 +4,7 @@
 
 - :man: I am a Full Stack Web Developer with experience using a variety of programming languages and tools
 
-- :blossom: I have strong technical skills, visual sense, understanding of UX with strong communication skills.
+- :blossom: I have strong technical skills, visual sense, with strong communication skills.
 
 
 - :trident: I am passionate about web and mobile technologies with great eye for superb user experience.
